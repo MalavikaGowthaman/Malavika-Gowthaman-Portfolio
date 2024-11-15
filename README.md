@@ -1,4 +1,4 @@
-# Malavika Gowthaman's Portfolio  [https://malavikagowthaman.github.io/Portfolio/]
+# Malavika Gowthaman's Portfolio  [https://malavikagowthaman.github.io/Malavika-Gowthaman-Portfolio/]
 ### Welcome to my portfolio! 
 This repository showcases my projects, skills, and experiences as a Data Scientist and AI Engineer. I specialize in Machine Learning, Deep Learning, and large language models (LLMs), and I have hands-on experience with various real-world applications.
 
